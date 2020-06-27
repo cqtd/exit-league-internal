@@ -1,1 +1,6 @@
 # exit-league-internal
+
+DO NOT RUN THIS PROGRAM WITH YOUR MAIN ACCOUNT.
+THIS WILL DEFINITELY BAN YOU 100 YEARS.
+
+`Status : Outdated`
